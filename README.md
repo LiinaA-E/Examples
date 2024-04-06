@@ -1,8 +1,4 @@
-# New-Learning-Repository
-Learning to know more about Github
-
-## Heading
-Using "##" for heading
+# EXAMPLE 1
 
 ## JAVA code
 ```java
